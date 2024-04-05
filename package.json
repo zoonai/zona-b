@@ -1,0 +1,47 @@
+{
+  "name": "zona-b",
+  "version": "1.0.1",
+  "description": "Zona Repository Github",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "zona"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoonai/zona-b.git"
+  },
+  "keywords": [
+    "Zona",
+    "GGTeam"
+  ],
+  "author": "Zona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoonai/zona-b/issues"
+  },
+  "homepage": "https://github.com/zoonai/zona-b#readme",
+  "dependencies": {
+    "brfv-gassefals-akira": "^0.1.2",
+    "brfv-gassefals-brian": "^0.1.0",
+    "brfv-gassefals-crocodile": "^0.1.0",
+    "brfv-gassefals-doflamingo": "^0.1.0",
+    "brfv-gassefals-enel": "^0.1.0",
+    "brfv-gassefals-franky": "^0.1.0",
+    "brfv-gassefals-goldroger": "^0.1.0",
+    "brfv-gassefals-low": "^0.1.1",
+    "dynamics-contracts-x": "^2.0.0",
+    "enefti-galeri": "^1.1.0",
+    "faucet-lab": "^2.0.0",
+    "kafirchain-tetris": "^1.0.0",
+    "kafirspace": "^1.0.1",
+    "koberious": "^1.0.0",
+    "magic-muscle-mashle": "^0.1.0",
+    "onepiecelabs": "^1.0.1",
+    "tampikober-framework": "^1.1.0",
+    "zona-a": "^1.0.0",
+    "zona-api-easy-x": "^2.3.0",
+    "zona-chain-x": "^1.0.1",
+    "zona-farming": "^1.0.1",
+    "zona-nft-dapps-x": "^2.1.0"
+  }
+}
